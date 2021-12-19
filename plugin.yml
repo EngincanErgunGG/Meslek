@@ -1,0 +1,8 @@
+name: Meslek
+api: 3.20.0
+main: KurSkyTR\Meslek
+version: 1.0
+author: enginc
+commands:
+  meslek:
+    description: "Meslek"
